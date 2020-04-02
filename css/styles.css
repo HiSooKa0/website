@@ -1,0 +1,51 @@
+/***********Tag selectors*********/
+
+body {
+  background-color: #EAF6F6;
+  text-align: center;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 7%;
+}
+h1  {
+  color: #116979;
+  text-shadow: 1px 1px black;
+}
+
+
+h3 {
+  color: #66BFBF
+
+}
+ table {
+   margin-left: auto;
+   margin-right: auto;
+
+ }
+ img {
+   border: 10px Solid transparent;
+   padding: 15px;
+   border-image: url(Oussama.jpg) 30 stretch;
+   border-radius: 50%;
+
+ }
+ /**********Class selectors************/
+
+ .diplomes {
+   width: 16%;
+ }
+.Education {
+width: 20%;
+}
+
+
+
+
+
+
+ /**************Id selectors**************/
